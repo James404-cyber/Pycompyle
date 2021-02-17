@@ -8,7 +8,7 @@
 <h2 align="center"> SCURE YOUR PYTHON SCRIPT  </h2>
 
 <p align="center">
-      ENCRYPT YOU PYTHON SCRIPT WITH PYCOMPYLE
+      ENCRYPT YOU PYTHON SCRIPT WITH PY-COMPYLE
 </p>
 
 
